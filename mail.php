@@ -13,5 +13,3 @@ mail($recepient, $pagetitle, $message, "Content-type: text/plain; charset=\"utf-
 
 
 
-
-// add text
